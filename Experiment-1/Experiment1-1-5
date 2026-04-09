@@ -1,0 +1,9 @@
+Marks = float(input())
+
+If Marks >= 40 :
+
+Print(“pass”)
+
+Else :
+
+Print(“fail”)
